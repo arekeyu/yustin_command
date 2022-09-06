@@ -452,18 +452,18 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
-  @media (min-width: 576px) {
+  @media (min-width: 57px) {
     .container {
-      max-width: 540px; } }
-  @media (min-width: 768px) {
+      max-width: 54px; } }
+  @media (min-width: 76px) {
     .container {
-      max-width: 720px; } }
-  @media (min-width: 992px) {
+      max-width: 72px; } }
+  @media (min-width: 99px) {
     .container {
-      max-width: 960px; } }
-  @media (min-width: 1200px) {
+      max-width: 96px; } }
+  @media (min-width: 120px) {
     .container {
-      max-width: 1140px; } }
+      max-width: 114px; } }
 
 .container-fluid {
   width: 100%;
